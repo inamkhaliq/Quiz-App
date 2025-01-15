@@ -81,7 +81,7 @@ function App() {
         variant='h1'
         component="h1"
       >
-        React Quiz
+        Quiz Application
       </Typography>
       {
         startBtn?<>
